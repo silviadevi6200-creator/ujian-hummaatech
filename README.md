@@ -88,7 +88,7 @@ Email:
 [admin@gmail.com](mailto:admin@gmail.com)
 
 Password:
-password
+admin123
 
 ---
 
